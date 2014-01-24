@@ -3,6 +3,8 @@ layout: default
 title: The Feynman Lectures on Physics
 ---
 
+# The Feynman Lectures on Physics 
+
 ## Richard Feynman
 
 Lorem Ipsum
@@ -13,4 +15,4 @@ Lorem Ipsum
 
 ## This translation
 
-Lorem Ipsum
+Lorem Ipsum, by me
