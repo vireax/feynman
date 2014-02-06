@@ -5,7 +5,7 @@ title: The Feynman Lectures on Physics
 
 # The Feynman Lectures on Physics 
 
-Source: http://www.feynmanlectures.caltech.edu/
+Source: [http://www.feynmanlectures.caltech.edu/](http://www.feynmanlectures.caltech.edu/)
 
 ## Richard Feynman
 
